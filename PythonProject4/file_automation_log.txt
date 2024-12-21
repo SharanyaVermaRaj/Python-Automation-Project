@@ -1,0 +1,6 @@
+2024-12-21 18:10:01,860 - root - INFO - Started
+2024-12-21 18:10:11,666 - root - INFO - Started
+2024-12-21 18:10:56,044 - root - INFO - Started
+2024-12-21 18:15:59,483 - root - INFO - Started
+2024-12-21 18:15:59,484 - root - INFO - Folder /Users/srivatsa/Downloads exists
+2024-12-21 18:15:59,484 - root - INFO - Folder /Users/srivatsa/Desktop/Presentation Images exists
